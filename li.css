@@ -23,7 +23,7 @@ box-shadow: 0 5px 25px rgb(255, 255, 255);
 }
 
 
-input,button {
+input,button, select {
 background: rgba(246, 248, 250, 0.8);
 color: rgb(15, 3, 3);
 padding: 7px;
@@ -39,3 +39,4 @@ width: 100%;
     }
 
 }
+

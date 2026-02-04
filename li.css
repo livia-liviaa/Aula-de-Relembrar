@@ -13,7 +13,7 @@ body {
     padding: 10px;
 }
 .container {
-width: 100%;
+width: 100vh;
 max-width: 420px;
 padding: 24px;
 background: rgb(128, 223, 255);
@@ -37,4 +37,5 @@ width: 100%;
     .container {
     padding: 12px;
     }
+
 }
